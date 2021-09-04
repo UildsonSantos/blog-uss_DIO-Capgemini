@@ -32,4 +32,9 @@ export class FeedComponent implements OnInit {
       location.assign('/feed')
     })
   }
+
+  searchByName(name: string){
+    this.listPost = this.listPost.filter(post => post.name === name);
+
+  }
 }

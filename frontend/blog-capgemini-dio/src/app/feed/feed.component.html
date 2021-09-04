@@ -15,8 +15,8 @@
 
           <h6 class="mb-3 text-monospace text-center">Search by name</h6>
 
-          <input type="text" class="form-control mb-3 w-100">
-          <button class="btn btn-outline-warning w-100" >Search</button>
+          <input #search type="text" class="form-control mb-3 w-100">
+          <button class="btn btn-outline-warning w-100" (click)="searchByName(search.value)">Search</button>
         </div>
       </div>
     </div>
