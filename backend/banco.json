@@ -1,0 +1,44 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "Shakira",
+      "message": "I have the ability and intelligence to learn anything I want, as I have the discipline and patience to train and study"
+    },
+    {
+      "id": 2,
+      "name": "Gracianne",
+      "message": "I can live on what I love to do"
+    },
+    {
+      "id": 3,
+      "name": "Carlos",
+      "message": "Tudo o que vier que venha para o bem. Eu vou evoluir, amadurecer e aprender."
+    },
+    {
+      "id": 4,
+      "name": "José",
+      "message": "If I fail, great, because I'll keep trying. I will have more strength to try again."
+    },
+    {
+      "id": 5,
+      "name": "Amanda",
+      "message": "I love having company, but I also feel good alone."
+    },
+    {
+      "id": 6,
+      "name": "Samantha",
+      "message": "I can do things correctly and I do things completely, without leaving things halfway."
+    },
+    {
+      "id": 7,
+      "name": "Shakira",
+      "message": "It doesn't matter what you decided. What matters is that it makes you happy."
+    },
+    {
+      "id": 8,
+      "name": "Shakira",
+      "message": "If I can't do everything, I do everything I can."
+    }   
+  ]
+}
